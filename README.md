@@ -5,7 +5,7 @@ films with the closest-matching plot, genres, and tagline — no other users'
 ratings required. Built on top of a TF-IDF + cosine-similarity pipeline,
 served through a small Flask API, with a custom frontend on top.
 
-> Add a screenshot or short GIF of the running app here once it's deployed.
+
 
 ## Features
 
